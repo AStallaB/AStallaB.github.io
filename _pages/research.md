@@ -24,7 +24,7 @@ We test the usefulness of machine learning (ML) for the valuation and pricing of
 ## Environmental Preferences and Sector Valuations
 <span style="color:grey">With Tristan Jourde </span> \
 <span style="color:grey">SSRN WP, 2023 </span>  \
-This paper examines the dynamic nature of pro-environmental preferences through the analysis of sector valuations in global equity markets from 2018 to 2021. We classify companies' business activities into three categories: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then test, based on panel regressions, whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 20 percent overvaluation of companies in green sectors and a 13 percent undervaluation of companies in brown sectors on average over the period compared to the rest of the market. In addition, companies belonging to green sectors have come under increased scrutiny by investors since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors. \
+This paper examines the dynamic nature of pro-environmental preferences through the analysis of sector valuations in global equity markets from 2018 to 2021. We classify companies business activities into three categories: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then test, based on panel regressions, whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 20 percent overvaluation of companies in green sectors and a 13 percent undervaluation of companies in brown sectors on average over the period compared to the rest of the market. In addition, companies belonging to green sectors have come under increased scrutiny by investors since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors. \
 *[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4481313) 
 
 ## Stock Return Predictability: comparing Macro- and MicroApproaches 
@@ -45,7 +45,7 @@ We propose a novel approach to quantify spillovers on financial markets based on
 <span style="color:grey">With Hugues Dastarac </span> \
 
 ## Identifying fundamental shocks on the European natural gas market
-<span style="color:grey">With Marc-André Buquet</span> \
+<span style="color:grey">With Marc-Andre Buquet</span> \
  
  
 
@@ -69,7 +69,6 @@ We propose a novel approach to quantify spillovers on financial markets based on
 ## What are the factors behind current high stock market valuations?
 <span style="color:grey">With Nicolas Chatelais</span> \
 <span style="color:grey">Blog Banque de France, 2021 </span>  \
-Despite the corrections at the end of 2018 and the Covid-19 shock, price-earnings ratios remain at high levels, particularly in the United States. However, based on indices adjusted for expected growth and the level of interest rates, this trend does not appear to be the result of irrational exuberance like in previous speculative episodes. \
 *[Link](https://blocnotesdeleco.banque-france.fr/en/blog-entry/what-are-factors-behind-current-high-stock-market-valuations)*
 
 
