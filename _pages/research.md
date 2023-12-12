@@ -39,9 +39,9 @@ We propose a novel approach to quantify spillovers on financial markets based on
 *[Link](https://publications.banque-france.fr/sites/default/files/medias/documents/wp798.pdf) 
 
 
- <h2> Ongoing Work </h2>
+<h2> Ongoing Work </h2>
  
- ## Physical and Financial Fragmentation in European Natural Gas Derivative Market
+## Physical and Financial Fragmentation in European Natural Gas Derivative Market
 <span style="color:grey">With Hugues Dastarac</span> \
 
 ## Identifying fundamental shocks on the European natural gas market
@@ -49,9 +49,9 @@ We propose a novel approach to quantify spillovers on financial markets based on
  
  
 
-  <h2> Blog Posts </h2>
+ <h2> Blog Posts </h2>
   
- ## China has reduced its energy bill thanks to Russian oil discounts
+## China has reduced its energy bill thanks to Russian oil discounts
 <span style="color:grey">With K. Ishii and C. Macaire</span> \
 <span style="color:grey">Blog Banque de France, 2023 </span>  \
 *[Link](https://www.banque-france.fr/en/publications-and-statistics/publications/china-has-reduced-its-energy-bill-thanks-russian-oil-discounts)*
