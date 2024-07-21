@@ -6,7 +6,7 @@ title: "Research"
  
   <h2> Published Papers </h2>
  
- ## Environmental preferences and sector valuations
+## Environmental preferences and sector valuations
 <span style="color:grey">With Tristan Jourde</span> \
 <span style="color:grey">Review of World Economics, 2024 </span>  \
 This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp; overvaluation of companies in green sectors and a 12pp; undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.\
