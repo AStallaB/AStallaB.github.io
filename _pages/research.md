@@ -29,9 +29,9 @@ We test the usefulness of machine learning (ML) for the valuation and pricing of
  <h2> Working Papers </h2>
  
 ## Identifying fundamental shocks on the European natural gas market
-<span style="color:grey">With Marc-André Buquet </span> \
+<span style="color:grey">With Marc-Andre Buquet </span> \
 <span style="color:grey">SSRN WP, 2024 </span>  \
-The 2022-Ukrainian crisis proved the necessity to study the dynamics of the natural gas as it revealed how reliant on this resource European economies were for energy production and industrial use. This paper aims to analyze the underlying shocks affecting gas prices in the European Union using a sign-identified structural vector autoregressive model (SVAR) that incorporates both Elasticity Restrictions, following Kilian and Murphy (2014), and Narrative Sign Restrictions, following Antolín-Díaz and Rubio-Ramírez (2018). Our analysis indicates a higher supply elasticity in the European gas market compared to previous estimates, which were primarily based on the U.S. market. Furthermore, our results suggest that precautionary demand shocks played a significant role in the substantial volatility of gas prices following the invasion in February 2022.\
+The 2022-Ukrainian crisis proved the necessity to study the dynamics of the natural gas as it revealed how reliant on this resource European economies were for energy production and industrial use. This paper aims to analyze the underlying shocks affecting gas prices in the European Union using a sign-identified structural vector autoregressive model (SVAR) that incorporates both Elasticity Restrictions, following Kilian and Murphy (2014), and Narrative Sign Restrictions, following Antolin-Diaz and Rubio-Ramirez (2018). Our analysis indicates a higher supply elasticity in the European gas market compared to previous estimates, which were primarily based on the U.S. market. Furthermore, our results suggest that precautionary demand shocks played a significant role in the substantial volatility of gas prices following the invasion in February 2022.\
 *[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890626) 
 
 ## Stock Return Predictability: comparing Macro- and MicroApproaches 
