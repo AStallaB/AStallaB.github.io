@@ -4,7 +4,7 @@ title: "Research"
 ---
  
  
-  <h2> Published Papers </h2>
+ <h2> Published Papers </h2>
  
 ## Environmental preferences and sector valuations
 <span style="color:grey">With Tristan Jourde</span> \
@@ -22,7 +22,7 @@ Stock prices declined abruptly in the wake of the Covid-19, reflecting both the 
 ## Forecasting sovereign risk in the Euro area via machine learning
 <span style="color:grey">With Guillaume Belly, Lukas Boeckelmann, Carlos Mateo Caicedo Graciano, Alberto Di Iorio, Klodiana Istrefi and Vasileios Siakoulis</span> \
 <span style="color:grey">Journal of Forecasting, 2023 </span>  \
-We test the usefulness of machine learning (ML) for the valuation and pricing of sovereign risk in the Euro area along two important dimensions: i) its predictive accuracy compared with traditional econometric methods, and ii) its assessment of the main economic factors underlying market perceptions of sovereign risk.We find that ML techniques can capture the dynamics inherent in the market valuation of country risk far more efficiently than traditional econometric models, both in the cross-section and in the time series. Moreover, we show that public sentiment about financial news, redenomination fears and the degree of hawkishness/dovishness expressed in the ECB president's speeches are major contributors to sovereign bond spreads. We also confirm that macroeconomic and global financial factors affect sovereign risk assessment and the corresponding formation of sovereign spreads.
+We test the usefulness of machine learning (ML) for the valuation and pricing of sovereign risk in the Euro area along two important dimensions: i) its predictive accuracy compared with traditional econometric methods, and ii) its assessment of the main economic factors underlying market perceptions of sovereign risk.We find that ML techniques can capture the dynamics inherent in the market valuation of country risk far more efficiently than traditional econometric models, both in the cross-section and in the time series. Moreover, we show that public sentiment about financial news, redenomination fears and the degree of hawkishness/dovishness expressed in the ECB president's speeches are major contributors to sovereign bond spreads. We also confirm that macroeconomic and global financial factors affect sovereign risk assessment and the corresponding formation of sovereign spreads. \
 *[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2938)
 
  
@@ -52,11 +52,21 @@ We propose a novel approach to quantify spillovers on financial markets based on
 <span style="color:grey">With Hugues Dastarac</span> \
 
 ## Identifying fundamental shocks on the European natural gas market
-<span style="color:grey">With Marc-Andre Buquet</span> \
+<span style="color:grey">With Marc-Andre Buquet</span>  \
  
  
 
  <h2> Policy publications </h2>
+  
+## The gas price shock: never again?
+<span style="color:grey">With C. Baget, G. Gaulier, J. Carluccio, J.-B. Gosse, F. Le Gallo and A. Schneider</span> \
+<span style="color:grey">Bulletin Banque de France, 2024 </span>  \
+*[Link](https://ideas.repec.org/a/bfr/bullbf/202324907.html)*
+  
+## The impact of energy shocks on financial stability in the context of the 2022 episode
+<span style="color:grey">With C. Brousse, N. Meme and M. Saillard </span> \
+<span style="color:grey">Bulletin Banque de France, 2023 </span>  \
+*[Link](https://ideas.repec.org/a/bfr/bullbf/202324907.html)*
   
 ## China has reduced its energy bill thanks to Russian oil discounts
 <span style="color:grey">With K. Ishii and C. Macaire</span> \
