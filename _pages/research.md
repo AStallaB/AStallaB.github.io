@@ -49,10 +49,10 @@ We propose a novel approach to quantify spillovers on financial markets based on
 <h2> Ongoing Work </h2>
  
 ## Physical and Financial Fragmentation in European Natural Gas Derivative Market
-<span style="color:grey">With Hugues Dastarac</span> \
+<span style="color:grey">With Hugues Dastarac</span> 
 
 ## Identifying fundamental shocks on the European natural gas market
-<span style="color:grey">With Marc-Andre Buquet</span>  \
+<span style="color:grey">With Marc-Andre Buquet</span>  
  
  
 
