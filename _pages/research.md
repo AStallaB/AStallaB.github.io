@@ -57,6 +57,11 @@ We propose a novel approach to quantify spillovers on financial markets based on
  
 
  <h2> Policy publications </h2>
+
+## Facing the energy crisis: what responses are being provided within the European Union?
+<span style="color:grey">With J. Carluccio, J.-B. Goss´e, F. Le Gallo, A. Schneider, N. Dunne et G. Gaulier,</span> \
+<span style="color:grey">Bulletin Banque de France, 2024 </span>  \
+*[Link](https://www.banque-france.fr/en/node/25965)*
   
 ## The gas price shock: never again?
 <span style="color:grey">With C. Baget, G. Gaulier, J. Carluccio, J.-B. Gosse, F. Le Gallo and A. Schneider</span> \
