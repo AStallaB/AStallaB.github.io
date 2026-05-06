@@ -9,4 +9,4 @@ You can download the structural gas market shocks from Adolfsen et al. (2026) [h
 
 If you use these data, please cite:
 
-Adolfsen, J. F., Lappe, M.-S., Manu, A. S., Rößler, D., Schupp, F. and Stalla-Bourdillon, A. (2026), *Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations*, ECB Working Paper.
+Adolfsen, J. F., Lappe, M.-S., Manu, A. S., Roessler, D., Schupp, F. and Stalla-Bourdillon, A. (2026), *Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations*, ECB Working Paper.
