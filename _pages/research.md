@@ -28,7 +28,7 @@ We test the usefulness of machine learning (ML) for the valuation and pricing of
  
  <h2> Working Papers </h2>
  
- ## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
+## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
 <span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A-S. Manu, D. Roessler and F. Schupp</span> \
 <span style="color:grey">ECB WP, 2026 </span>  \
 This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.\
