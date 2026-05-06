@@ -28,6 +28,12 @@ We test the usefulness of machine learning (ML) for the valuation and pricing of
  
  <h2> Working Papers </h2>
  
+ ## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
+<span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A-S. Manu, D. Roessler and F. Schupp</span> \
+<span style="color:grey">ECB WP, 2026 </span>  \
+This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.\
+*[Link](https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.en.html) 
+ 
 ## Identifying fundamental shocks on the European natural gas market
 <span style="color:grey">With Marc-Andre Buquet </span> \
 <span style="color:grey">SSRN WP, 2024 </span>  \
@@ -48,15 +54,33 @@ We propose a novel approach to quantify spillovers on financial markets based on
 
 <h2> Ongoing Work </h2>
  
-## Physical and Financial Fragmentation in European Natural Gas Derivative Market
-<span style="color:grey">With Hugues Dastarac</span> 
-
-## Identifying fundamental shocks on the European natural gas market
-<span style="color:grey">With Marc-Andre Buquet</span>  
  
+## Predicting Oil Prices with LLMs: Tapping into OPEC and IEA Reports
+<span style="color:grey">With G. Lopardo, A-S. Manu and I. Van Robays</span> 
+
+## Understanding OPEC?s Decisions: Evidence from a Regime-Switching Model
+<span style="color:grey">With A. Sampaolesi</span> 
+ 
+## Physical and Financial Fragmentation in European Natural Gas Derivative Market
+<span style="color:grey">With H. Dastarac</span> 
  
 
  <h2> Policy publications </h2>
+
+## Non-linearities in oil prices: which conditions matter?
+<span style="color:grey">With V. Burian,</span> \
+<span style="color:grey">ECB Economic Bulletin Boxes, 2026 </span>  \
+*[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202602_03~d40555323a.en.html)*
+
+## Shifts in OPEC+ behaviour and downside risks to oil prices
+<span style="color:grey">With M. Ferrari Minesso,</span> \
+<span style="color:grey">ECB Economic Bulletin Boxes, 2025 </span>  \
+*[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2025/html/ecb.ebbox202507_02~f7c9f12c15.en.html)*
+
+## The increasing energy demand of artificial intelligence and its impact on commodity prices?
+<span style="color:grey">With V. Burian,</span> \
+<span style="color:grey">ECB Economic Bulletin Boxes, 2025 </span>  \
+*[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html)*
 
 ## Facing the energy crisis: what responses are being provided within the European Union?
 <span style="color:grey">With J. Carluccio, J.-B. Goss´e, F. Le Gallo, A. Schneider, N. Dunne et G. Gaulier,</span> \
