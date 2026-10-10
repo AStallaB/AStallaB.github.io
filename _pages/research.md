@@ -2,17 +2,22 @@
 permalink: /research/
 title: "Research"
 ---
- 
- 
+
+
  <h2> Published Papers </h2>
- 
+
 ## Environmental preferences and sector valuations
 <span style="color:grey">With Tristan Jourde</span> \
 <span style="color:grey">Review of World Economics, 2024 </span>  \
 This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp; overvaluation of companies in green sectors and a 12pp; undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.\
 *[Link](https://link.springer.com/article/10.1007/s10290-024-00537-5)
- 
- 
+
+## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
+<span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A.-S. Manu, D. Roessler and F. Schupp</span> \
+<span style="color:grey">Journal of Macroeconomics, 2026 </span>  \
+This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.\
+*[Link](https://www.sciencedirect.com/science/article/abs/pii/S0164070426000236)
+
 ## Forecasting real activity using cross-sectoral stock market information
 <span style="color:grey">With Nicolas Chatelais and Menzie Chinn</span> \
 <span style="color:grey">Journal of International Money and Finance, 2023 </span>  \
@@ -25,85 +30,89 @@ Stock prices declined abruptly in the wake of the Covid-19, reflecting both the 
 We test the usefulness of machine learning (ML) for the valuation and pricing of sovereign risk in the Euro area along two important dimensions: i) its predictive accuracy compared with traditional econometric methods, and ii) its assessment of the main economic factors underlying market perceptions of sovereign risk.We find that ML techniques can capture the dynamics inherent in the market valuation of country risk far more efficiently than traditional econometric models, both in the cross-section and in the time series. Moreover, we show that public sentiment about financial news, redenomination fears and the degree of hawkishness/dovishness expressed in the ECB president's speeches are major contributors to sovereign bond spreads. We also confirm that macroeconomic and global financial factors affect sovereign risk assessment and the corresponding formation of sovereign spreads. \
 *[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2938)
 
- 
+
  <h2> Working Papers </h2>
- 
-## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
-<span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A-S. Manu, D. Roessler and F. Schupp</span> \
-<span style="color:grey">ECB WP, 2026 </span>  \
-This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.\
-*[Link](https://www.ecb.europa.eu/press/research-publications/working-papers/html/index.en.html) 
- 
+
 ## Identifying fundamental shocks on the European natural gas market
 <span style="color:grey">With Marc-Andre Buquet </span> \
 <span style="color:grey">SSRN WP, 2024 </span>  \
 The 2022-Ukrainian crisis proved the necessity to study the dynamics of the natural gas as it revealed how reliant on this resource European economies were for energy production and industrial use. This paper aims to analyze the underlying shocks affecting gas prices in the European Union using a sign-identified structural vector autoregressive model (SVAR) that incorporates both Elasticity Restrictions, following Kilian and Murphy (2014), and Narrative Sign Restrictions, following Antolin-Diaz and Rubio-Ramirez (2018). Our analysis indicates a higher supply elasticity in the European gas market compared to previous estimates, which were primarily based on the U.S. market. Furthermore, our results suggest that precautionary demand shocks played a significant role in the substantial volatility of gas prices following the invasion in February 2022.\
-*[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890626) 
+*[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890626)
 
-## Stock Return Predictability: comparing Macro- and MicroApproaches 
+## Stock Return Predictability: comparing Macro- and MicroApproaches
 <span style="color:grey">Working Paper Banque de France, 2022 </span>  \
 Economic theory identifies two potential sources of return predictability: time variation in expected returns (beta-predictability) or market inefficiencies (alpha-predictability). For the latter, Samuelson argued that macro-returns exhibit more inefficiencies than micro-returns, as individual stories are averaged out, leaving only harder-to-eliminate macro-mispricing at the index-level. To evaluate this claim, we compare macro- and micro-predictability on US data to gauge if the former turns out higher than the latter. Additionally, we extend over time the methodology of Rapach et al. (2011) to disentangle the two sources of predictability. We first find that Samuelson's view appears incorrect, as micro-predictability is not structurally lower than macro-predictability. Second, we find that our estimated alpha- and beta-predictability indices are coherent with their corresponding theoretical implications (the alpha-predictability being high in times of bullish markets, and the beta-predictability in recessive periods), thus suggesting that the two mechanisms are at play in our dataset. \
-*[Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.banque-france.fr/system/files/2023-01/wp891.pdf) 
+*[Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.banque-france.fr/system/files/2023-01/wp891.pdf)
 
 ## Structural Estimation of Time-Varying Spillovers: an Application to International Credit Risk Transmission
 <span style="color:grey">With Lukas Boeckelmann</span> \
 <span style="color:grey">Working Paper Banque de France, 2021 </span>  \
 We propose a novel approach to quantify spillovers on financial markets based on a structural version of the Diebold-Yilmaz framework. Key to our approach is a SVAR-GARCH model that is statistically identified by heteroskedasticity, economically identified by maximum shock contribution and that allows for time-varying forecast error variance decompositions. We analyze credit risk spillovers between EZ sovereign and bank CDS. Methodologically, we find the model to better match economic narratives compared with common spillover approaches and to be more reactive than models relying on rolling window estimations. We find, on average, spillovers to explain 37 percent; of the variation in our sample, amid a strong variation of the latter over time. \
-*[Link](https://publications.banque-france.fr/sites/default/files/medias/documents/wp798.pdf) 
+*[Link](https://publications.banque-france.fr/sites/default/files/medias/documents/wp798.pdf)
 
 
 <h2> Ongoing Work </h2>
- 
- 
+
+
 ## Predicting Oil Prices with LLMs: Tapping into OPEC and IEA Reports
-<span style="color:grey">With G. Lopardo, A-S. Manu and I. Van Robays</span> 
+<span style="color:grey">With G. Lopardo, A.-S. Manu and I. Van Robays</span>
 
 ## Understanding OPEC?s Decisions: Evidence from a Regime-Switching Model
-<span style="color:grey">With A. Sampaolesi</span> 
- 
+<span style="color:grey">With A. Sampaolesi</span>
+
 ## Physical and Financial Fragmentation in European Natural Gas Derivative Market
-<span style="color:grey">With H. Dastarac</span> 
- 
+<span style="color:grey">With H. Dastarac</span>
+
 
  <h2> Policy publications </h2>
 
+## Energy shock: why oil and gas prices have risen less than expected
+<span style="color:grey">With L. Demuth and A.-S. Manu</span> \
+<span style="color:grey">ECB Blog, 2026 </span>  \
+*[Link](https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260727~1212bdb8f9.en.html)*
+
+## How US financial markets react to geopolitical shocks hitting oil supply
+<span style="color:grey">With M. Ferrari Minesso, B. Lopes Mendes and V. Vidaházy</span> \
+<span style="color:grey">ECB Economic Bulletin Box, 2026 </span>  \
+*[Link](https://www.ecb.europa.eu/press/economic-bulletin/focus/2026/html/ecb.ebbox202604_02~7d79ce3c90.en.html)*
+
 ## Non-linearities in oil prices: which conditions matter?
-<span style="color:grey">With V. Burian,</span> \
-<span style="color:grey">ECB Economic Bulletin Boxes, 2026 </span>  \
+<span style="color:grey">With V. Burian</span> \
+<span style="color:grey">ECB Economic Bulletin Box, 2026 </span>  \
 *[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2026/html/ecb.ebbox202602_03~d40555323a.en.html)*
 
 ## Shifts in OPEC+ behaviour and downside risks to oil prices
-<span style="color:grey">With M. Ferrari Minesso,</span> \
-<span style="color:grey">ECB Economic Bulletin Boxes, 2025 </span>  \
+<span style="color:grey">With M. Ferrari Minesso</span> \
+<span style="color:grey">ECB Economic Bulletin Box, 2025 </span>  \
 *[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2025/html/ecb.ebbox202507_02~f7c9f12c15.en.html)*
 
 ## The increasing energy demand of artificial intelligence and its impact on commodity prices?
-<span style="color:grey">With V. Burian,</span> \
-<span style="color:grey">ECB Economic Bulletin Boxes, 2025 </span>  \
+<span style="color:grey">With V. Burian</span> \
+<span style="color:grey">ECB Economic Bulletin Box, 2025 </span>  \
 *[Link](https://www.ecb.europa.eu//press/economic-bulletin/focus/2025/html/ecb.ebbox202502_03~8eba688e29.en.html)*
 
 ## Facing the energy crisis: what responses are being provided within the European Union?
-<span style="color:grey">With J. Carluccio, J.-B. GossÂ´e, F. Le Gallo, A. Schneider, N. Dunne et G. Gaulier,</span> \
+<span style="color:grey">With J. Carluccio, J.-B. Gosse, F. Le Gallo, A. Schneider, N. Dunne and G. Gaulier</span> \
 <span style="color:grey">Bulletin Banque de France, 2024 </span>  \
 *[Link](https://www.banque-france.fr/en/node/25965)*
-  
+
 ## The gas price shock: never again?
 <span style="color:grey">With C. Baget, G. Gaulier, J. Carluccio, J.-B. Gosse, F. Le Gallo and A. Schneider</span> \
 <span style="color:grey">Bulletin Banque de France, 2024 </span>  \
 *[Link](https://ideas.repec.org/a/bfr/bullbf/202324907.html)*
-  
+
 ## The impact of energy shocks on financial stability in the context of the 2022 episode
-<span style="color:grey">With C. Brousse, N. Meme and M. Saillard </span> \
+<span style="color:grey">With C. Brousse, N. Meme and M. Saillard</span> \
 <span style="color:grey">Bulletin Banque de France, 2023 </span>  \
 *[Link](https://ideas.repec.org/a/bfr/bullbf/202324907.html)*
-  
+
 ## China has reduced its energy bill thanks to Russian oil discounts
 <span style="color:grey">With K. Ishii and C. Macaire</span> \
 <span style="color:grey">Blog Banque de France, 2023 </span>  \
 *[Link](https://www.banque-france.fr/en/publications-and-statistics/publications/china-has-reduced-its-energy-bill-thanks-russian-oil-discounts)*
 
 ## Dynamics and Implications of the Recent Rise in Wheat Prices
-<span style="color:grey">With R. Rajesh, P. Vertier, T. Lemaire and A. Le Metayer, </span> \
+<span style="color:grey">With R. Rajesh, P. Vertier, T. Lemaire and A. Le Metayer</span> \
 <span style="color:grey">Blog Banque de France, 2022 </span>  \
 *[Link](https://www.banque-france.fr/en/publications-and-statistics/publications/dynamics-and-implications-recent-rise-wheat-prices)*
 
@@ -116,12 +125,3 @@ We propose a novel approach to quantify spillovers on financial markets based on
 <span style="color:grey">With Nicolas Chatelais</span> \
 <span style="color:grey">Blog Banque de France, 2021 </span>  \
 *[Link](https://blocnotesdeleco.banque-france.fr/en/blog-entry/what-are-factors-behind-current-high-stock-market-valuations)*
-
-
-
-
-
-
-
-
-
