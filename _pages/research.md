@@ -47,14 +47,40 @@ title: "Research"
   margin: 0.15rem 0;
 }
 
+.research-paper-summary {
+  margin-top: 0.75rem;
+  margin-bottom: 0.55rem;
+  line-height: 1.45;
+  font-size: 0.96rem;
+  text-align: left;
+}
+
+.research-paper-details {
+  margin-top: 0.45rem;
+  font-size: 0.92rem;
+}
+
+.research-paper-details summary {
+  cursor: pointer;
+  color: #2a7db8;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.research-paper-details summary:hover {
+  text-decoration: underline;
+}
+
 .research-paper-abstract {
-  margin-top: 0.8rem;
-  line-height: 1.55;
-  text-align: justify;
+  margin-top: 0.65rem;
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+  font-size: 0.92rem;
+  text-align: left;
 }
 
 .research-paper-link {
-  margin-top: 0.8rem;
+  margin-top: 0.6rem;
 }
 
 @media (max-width: 900px) {
@@ -81,9 +107,18 @@ title: "Research"
     <h3>Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations</h3>
     <p class="research-paper-meta"><span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A.-S. Manu, D. Roessler and F. Schupp</span></p>
     <p class="research-paper-meta"><span style="color:grey">Journal of Macroeconomics, 2026</span></p>
-    <p class="research-paper-abstract">
-      This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.
+
+    <p class="research-paper-summary">
+      This paper studies how different types of natural gas market shocks affect euro area inflation expectations and realized inflation, using a weekly BVAR with a detailed identification strategy.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164070426000236">Link</a></em></p>
   </div>
 </div>
@@ -98,9 +133,18 @@ title: "Research"
     <h3>Environmental preferences and sector valuations</h3>
     <p class="research-paper-meta"><span style="color:grey">With Tristan Jourde</span></p>
     <p class="research-paper-meta"><span style="color:grey">Review of World Economics, 2024</span></p>
-    <p class="research-paper-abstract">
-      This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp overvaluation of companies in green sectors and a 12pp undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.
+
+    <p class="research-paper-summary">
+      This paper shows that investors attach a valuation premium to green sectors and a discount to brown sectors, with these environmental preferences becoming stronger over time.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp overvaluation of companies in green sectors and a 12pp undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://link.springer.com/article/10.1007/s10290-024-00537-5">Link</a></em></p>
   </div>
 </div>
@@ -115,9 +159,18 @@ title: "Research"
     <h3>Forecasting real activity using cross-sectoral stock market information</h3>
     <p class="research-paper-meta"><span style="color:grey">With Nicolas Chatelais and Menzie Chinn</span></p>
     <p class="research-paper-meta"><span style="color:grey">Journal of International Money and Finance, 2023</span></p>
-    <p class="research-paper-abstract">
-      Stock prices declined abruptly in the wake of the Covid-19, reflecting both the deterioration of investors' expectations of profitability as well as the surge in risk aversion. In the following months however, economic activity remained sluggish while equity markets bounced back. This disconnect between equity values and macro-variables can be partially explained by other factors, namely the decline in risk-free interest rates, and -for the US- the strong earnings of the IT sector. As a result, an econometrician forecasting economic activity with aggregate stock market variables during the Covid-crisis is likely to get poor results. Our main contribution is thus to rely on sectorally disaggregated equity variables within a factor model in order to predict US economic activity. We find, first, that the factor model better predicts future economic activity compared to aggregate equity variables, or to conventional benchmarks used in the literature, both in-sample and out-of-sample. Second, we show that the strong performance of the factor model comes from the fact that it filters out the expected returns component of the sectoral equity variables as well as the foreign component of aggregate future cash flows. The constructed factor overweights upstream and value sectors that are found to be closely linked to the future state of the business cycle.
+
+    <p class="research-paper-summary">
+      This paper shows that cross-sectoral equity information improves forecasts of US real activity relative to aggregate stock market indicators and standard benchmarks.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        Stock prices declined abruptly in the wake of the Covid-19, reflecting both the deterioration of investors' expectations of profitability as well as the surge in risk aversion. In the following months however, economic activity remained sluggish while equity markets bounced back. This disconnect between equity values and macro-variables can be partially explained by other factors, namely the decline in risk-free interest rates, and -for the US- the strong earnings of the IT sector. As a result, an econometrician forecasting economic activity with aggregate stock market variables during the Covid-crisis is likely to get poor results. Our main contribution is thus to rely on sectorally disaggregated equity variables within a factor model in order to predict US economic activity. We find, first, that the factor model better predicts future economic activity compared to aggregate equity variables, or to conventional benchmarks used in the literature, both in-sample and out-of-sample. Second, we show that the strong performance of the factor model comes from the fact that it filters out the expected returns component of the sectoral equity variables as well as the foreign component of aggregate future cash flows. The constructed factor overweights upstream and value sectors that are found to be closely linked to the future state of the business cycle.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0261560623000013">Link</a></em></p>
   </div>
 </div>
@@ -132,9 +185,18 @@ title: "Research"
     <h3>Forecasting sovereign risk in the Euro area via machine learning</h3>
     <p class="research-paper-meta"><span style="color:grey">With Guillaume Belly, Lukas Boeckelmann, Carlos Mateo Caicedo Graciano, Alberto Di Iorio, Klodiana Istrefi and Vasileios Siakoulis</span></p>
     <p class="research-paper-meta"><span style="color:grey">Journal of Forecasting, 2023</span></p>
-    <p class="research-paper-abstract">
-      We test the usefulness of machine learning (ML) for the valuation and pricing of sovereign risk in the Euro area along two important dimensions: i) its predictive accuracy compared with traditional econometric methods, and ii) its assessment of the main economic factors underlying market perceptions of sovereign risk. We find that ML techniques can capture the dynamics inherent in the market valuation of country risk far more efficiently than traditional econometric models, both in the cross-section and in the time series. Moreover, we show that public sentiment about financial news, redenomination fears and the degree of hawkishness/dovishness expressed in the ECB president's speeches are major contributors to sovereign bond spreads. We also confirm that macroeconomic and global financial factors affect sovereign risk assessment and the corresponding formation of sovereign spreads.
+
+    <p class="research-paper-summary">
+      This paper shows that machine learning methods improve the prediction of euro area sovereign spreads and help identify their main economic and financial drivers.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        We test the usefulness of machine learning (ML) for the valuation and pricing of sovereign risk in the Euro area along two important dimensions: i) its predictive accuracy compared with traditional econometric methods, and ii) its assessment of the main economic factors underlying market perceptions of sovereign risk. We find that ML techniques can capture the dynamics inherent in the market valuation of country risk far more efficiently than traditional econometric models, both in the cross-section and in the time series. Moreover, we show that public sentiment about financial news, redenomination fears and the degree of hawkishness/dovishness expressed in the ECB president's speeches are major contributors to sovereign bond spreads. We also confirm that macroeconomic and global financial factors affect sovereign risk assessment and the corresponding formation of sovereign spreads.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2938">Link</a></em></p>
   </div>
 </div>
@@ -151,9 +213,18 @@ title: "Research"
     <h3>Identifying fundamental shocks on the European natural gas market</h3>
     <p class="research-paper-meta"><span style="color:grey">With Marc-Andre Buquet</span></p>
     <p class="research-paper-meta"><span style="color:grey">SSRN Working Paper, 2024</span></p>
-    <p class="research-paper-abstract">
-      The 2022-Ukrainian crisis proved the necessity to study the dynamics of the natural gas as it revealed how reliant on this resource European economies were for energy production and industrial use. This paper aims to analyze the underlying shocks affecting gas prices in the European Union using a sign-identified structural vector autoregressive model (SVAR) that incorporates both Elasticity Restrictions, following Kilian and Murphy (2014), and Narrative Sign Restrictions, following Antolin-Diaz and Rubio-Ramirez (2018). Our analysis indicates a higher supply elasticity in the European gas market compared to previous estimates, which were primarily based on the U.S. market. Furthermore, our results suggest that precautionary demand shocks played a significant role in the substantial volatility of gas prices following the invasion in February 2022.
+
+    <p class="research-paper-summary">
+      This paper identifies the main structural shocks driving European gas prices and highlights the central role of precautionary demand shocks during the 2022 energy crisis.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        The 2022-Ukrainian crisis proved the necessity to study the dynamics of the natural gas as it revealed how reliant on this resource European economies were for energy production and industrial use. This paper aims to analyze the underlying shocks affecting gas prices in the European Union using a sign-identified structural vector autoregressive model (SVAR) that incorporates both Elasticity Restrictions, following Kilian and Murphy (2014), and Narrative Sign Restrictions, following Antolin-Diaz and Rubio-Ramirez (2018). Our analysis indicates a higher supply elasticity in the European gas market compared to previous estimates, which were primarily based on the U.S. market. Furthermore, our results suggest that precautionary demand shocks played a significant role in the substantial volatility of gas prices following the invasion in February 2022.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890626">Link</a></em></p>
   </div>
 </div>
@@ -167,9 +238,18 @@ title: "Research"
   <div class="research-paper-content">
     <h3>Stock Return Predictability: comparing Macro- and MicroApproaches</h3>
     <p class="research-paper-meta"><span style="color:grey">Working Paper Banque de France, 2022</span></p>
-    <p class="research-paper-abstract">
-      Economic theory identifies two potential sources of return predictability: time variation in expected returns (beta-predictability) or market inefficiencies (alpha-predictability). For the latter, Samuelson argued that macro-returns exhibit more inefficiencies than micro-returns, as individual stories are averaged out, leaving only harder-to-eliminate macro-mispricing at the index-level. To evaluate this claim, we compare macro- and micro-predictability on US data to gauge if the former turns out higher than the latter. Additionally, we extend over time the methodology of Rapach et al. (2011) to disentangle the two sources of predictability. We first find that Samuelson's view appears incorrect, as micro-predictability is not structurally lower than macro-predictability. Second, we find that our estimated alpha- and beta-predictability indices are coherent with their corresponding theoretical implications (the alpha-predictability being high in times of bullish markets, and the beta-predictability in recessive periods), thus suggesting that the two mechanisms are at play in our dataset.
+
+    <p class="research-paper-summary">
+      This paper compares macro- and micro-level return predictability and finds that micro-predictability is not structurally lower than macro-predictability.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        Economic theory identifies two potential sources of return predictability: time variation in expected returns (beta-predictability) or market inefficiencies (alpha-predictability). For the latter, Samuelson argued that macro-returns exhibit more inefficiencies than micro-returns, as individual stories are averaged out, leaving only harder-to-eliminate macro-mispricing at the index-level. To evaluate this claim, we compare macro- and micro-predictability on US data to gauge if the former turns out higher than the latter. Additionally, we extend over time the methodology of Rapach et al. (2011) to disentangle the two sources of predictability. We first find that Samuelson's view appears incorrect, as micro-predictability is not structurally lower than macro-predictability. Second, we find that our estimated alpha- and beta-predictability indices are coherent with their corresponding theoretical implications (the alpha-predictability being high in times of bullish markets, and the beta-predictability in recessive periods), thus suggesting that the two mechanisms are at play in our dataset.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp891.pdf">Link</a></em></p>
   </div>
 </div>
@@ -184,9 +264,18 @@ title: "Research"
     <h3>Structural Estimation of Time-Varying Spillovers: an Application to International Credit Risk Transmission</h3>
     <p class="research-paper-meta"><span style="color:grey">With Lukas Boeckelmann</span></p>
     <p class="research-paper-meta"><span style="color:grey">Working Paper Banque de France, 2021</span></p>
-    <p class="research-paper-abstract">
-      We propose a novel approach to quantify spillovers on financial markets based on a structural version of the Diebold-Yilmaz framework. Key to our approach is a SVAR-GARCH model that is statistically identified by heteroskedasticity, economically identified by maximum shock contribution and that allows for time-varying forecast error variance decompositions. We analyze credit risk spillovers between EZ sovereign and bank CDS. Methodologically, we find the model to better match economic narratives compared with common spillover approaches and to be more reactive than models relying on rolling window estimations. We find, on average, spillovers to explain 37 percent of the variation in our sample, amid a strong variation of the latter over time.
+
+    <p class="research-paper-summary">
+      This paper develops a structural approach to time-varying financial spillovers and applies it to sovereign and bank CDS markets in the euro area.
     </p>
+
+    <details class="research-paper-details">
+      <summary>Read abstract</summary>
+      <p class="research-paper-abstract">
+        We propose a novel approach to quantify spillovers on financial markets based on a structural version of the Diebold-Yilmaz framework. Key to our approach is a SVAR-GARCH model that is statistically identified by heteroskedasticity, economically identified by maximum shock contribution and that allows for time-varying forecast error variance decompositions. We analyze credit risk spillovers between EZ sovereign and bank CDS. Methodologically, we find the model to better match economic narratives compared with common spillover approaches and to be more reactive than models relying on rolling window estimations. We find, on average, spillovers to explain 37 percent of the variation in our sample, amid a strong variation of the latter over time.
+      </p>
+    </details>
+
     <p class="research-paper-link"><em><a href="https://publications.banque-france.fr/sites/default/files/medias/documents/wp798.pdf">Link</a></em></p>
   </div>
 </div>
