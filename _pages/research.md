@@ -6,17 +6,17 @@ title: "Research"
 
  <h2> Published Papers </h2>
 
-## Environmental preferences and sector valuations
-<span style="color:grey">With Tristan Jourde</span> \
-<span style="color:grey">Review of World Economics, 2024 </span>  \
-This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp; overvaluation of companies in green sectors and a 12pp; undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.\
-*[Link](https://link.springer.com/article/10.1007/s10290-024-00537-5)
-
 ## Gas Market Shocks: Tracing the Effect on Euro Area Inflation Expectations
 <span style="color:grey">With J. F. Adolfsen, M.-S. Lappe, A.-S. Manu, D. Roessler and F. Schupp</span> \
 <span style="color:grey">Journal of Macroeconomics, 2026 </span>  \
 This paper examines the impact of natural gas market shocks on gas market dynamics, inflation expectations and realized inflation in the Euro Area using a BVAR model. Our contribution lies in a novel identification strategy that distinguishes between various types of shocks of unprecedented detail, leverages weekly rather than monthly data, and extends the analysis to both market-based headline and core inflation expectations. We find that, although conceptually distinct, pipeline and liquefied natural gas (LNG) supply shocks have comparable effects on realized variables such as gas prices and actual inflation. By contrast, LNG supply shocks play a more limited role in shaping inflation expectations. Precautionary demand and industrial demand shocks also emerge as important drivers of inflation dynamics. This reflects both the forward-looking nature of precautionary shocks, which capture changes in investor sentiment, and the broader macroeconomic relevance of industrial demand shocks, whose effects extend beyond the gas market.\
 *[Link](https://www.sciencedirect.com/science/article/abs/pii/S0164070426000236)
+
+## Environmental preferences and sector valuations
+<span style="color:grey">With Tristan Jourde</span> \
+<span style="color:grey">Review of World Economics, 2024 </span>  \
+This paper examines the dynamic nature of pro-environmental preferences through an analysis of sector valuations in global equity markets from 2018 to 2023. We classify companies into three groups based on their business activities: green (e.g., renewables), neutral, and brown (e.g., fossil energy). We then run panel regressions to test whether being in the green or brown sectoral category affects stock valuations. We find that investors value sector affiliation, positively for green and negatively for brown, even after controlling for other firm-level financial and extra-financial characteristics. The effect is sizeable, as we report a 24pp; overvaluation of companies in green sectors and a 12pp; undervaluation of companies in brown sectors on average compared to the rest of the market. In addition, companies in green sectors have come under increased investor scrutiny since 2018 and appear increasingly overvalued relative to the rest of the market, suggesting that pro-environmental preferences have become more prevalent among investors.\
+*[Link](https://link.springer.com/article/10.1007/s10290-024-00537-5)
 
 ## Forecasting real activity using cross-sectoral stock market information
 <span style="color:grey">With Nicolas Chatelais and Menzie Chinn</span> \
@@ -72,7 +72,7 @@ We propose a novel approach to quantify spillovers on financial markets based on
 *[Link](https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20260727~1212bdb8f9.en.html)*
 
 ## How US financial markets react to geopolitical shocks hitting oil supply
-<span style="color:grey">With M. Ferrari Minesso, B. Lopes Mendes and V. Vidah·zy</span> \
+<span style="color:grey">With M. Ferrari Minesso, B. Lopes Mendes and V. Vidah√°zy</span> \
 <span style="color:grey">ECB Economic Bulletin Box, 2026 </span>  \
 *[Link](https://www.ecb.europa.eu/press/economic-bulletin/focus/2026/html/ecb.ebbox202604_02~7d79ce3c90.en.html)*
 
